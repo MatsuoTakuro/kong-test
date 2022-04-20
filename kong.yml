@@ -3,7 +3,7 @@ _transform: true
 
 services:
   - name: store-api
-    url: http://local_dev:8002
+    url: http://local_dev:8006
     routes:
       - name: store-api-routes
         paths:
